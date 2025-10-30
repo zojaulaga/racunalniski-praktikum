@@ -48,7 +48,7 @@ h2 {
 }
 
 .slika {
-    border: 2px solid red;
+    border: 2px solid white;
     font-size: 0.9em;
     width: 40%;
     text-align: left;
@@ -59,4 +59,12 @@ h2 {
 .slika img {
     width: 100%;
 height: auto;
+border-radius: 50%;
+}
+.slika p:last-child {
+    font-size: 0.8em;
+}
+
+a::before {
+    content: "♥ ";
 }
