@@ -38,3 +38,5 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 1. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 1. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
 1. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**
+
+https://zojaulaga.github.io 
