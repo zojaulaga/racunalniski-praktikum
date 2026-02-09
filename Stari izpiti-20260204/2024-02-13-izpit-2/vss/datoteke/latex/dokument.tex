@@ -1,0 +1,70 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovene]{babel}
+\usepackage{lmodern}
+\usepackage{url}
+\usepackage{graphicx}
+
+% 1. naloga: pripravite naslovno stran
+% Nekaj o kompleksni dinamiki
+% Beno Učakar
+% Fakulteta za matematiko in fiziko
+
+\usetheme{metropolis}
+\usecolortheme{spruce}
+\usefonttheme{structurebold}
+\useoutertheme{infolines}
+\beamertemplatenavigationsymbolsempty
+
+% 2. naloga: definirajte novo AMS okolje "definicija"
+
+\begin{document}
+
+% 1. naloga: pripravite naslovno stran
+
+\begin{frame}
+    Kompleksna števila lahko enostavno vstavimo v polinom, kaj pa druge funkcije? 
+    Za primer si poglejmo, kako izračunamo $e^{i\theta}$ s pomočjo Taylorjeve vrste.
+    
+    % 3. naloga: okolje za poravnano enačbo
+    % začetek okolja
+        % e^{i\theta} = ?? \frac{(i\theta)^n}{n!}
+        %             = 1 + i\theta - \frac{\theta^2}{2!} - \frac{i\theta^3}{3!} + \frac{\theta^4}{4!} + \frac{i\theta^5}{5!} + \ldots
+        %             = \left( 1 - \frac{\theta^2}{2!} + \frac{\theta^4}{4!} - \ldots \right) 
+        %                + i \left(\theta - \frac{\theta^3}{3!} + \frac{\theta^5}{5!} - \ldots \right)
+        %             = ??.
+    % konec okolja
+\end{frame}
+
+\begin{frame}
+
+    % 2. naloga: uporabite okolje definicija in poudarite izraz "večkratnost"
+    % začetek definicije
+        Naj bo $f \in O(D)$ in $z_0 \in D$ fiksna točka funkcije $f$.
+        Število $\lambda = f'(z_0)$ imenujemo večkratnost funkcije $f$ v točki $z_0$.
+    % konec definicije
+    
+    % 4. naloga: prelom prosojnice
+
+    \begin{exampleblock}{Glede na $\lambda$ karakteriziramo fiksne točke:}
+        % 4. naloga: postopno prikazovanje elementov in manjkajoč izraz
+        \begin{enumerate} 
+            \item $|\lambda| = 0$ je \textbf{super privlačna} fiksna točka.
+            \item $|\lambda| < 1$ je \textbf{privlačna} fiksna točka.
+            \item $|\lambda| > 1$ je \textbf{odbojna} fiksna točka.
+            \item $|\lambda| = 1$: 
+                če je $\lambda^n \neq 1$ za vsak ?? je fiksna točka \textbf{iracionalno},
+                sicer pa \textbf{racionalno nevtralna}.
+        \end{enumerate}
+    \end{exampleblock}
+\end{frame}
+
+\begin{frame}
+    % 5. naloga: naslov prosojnice
+    % Primer Julijeve množice
+
+    % 5. naloga: vstavite sliko julia_set.png
+\end{frame}
+
+\end{document}

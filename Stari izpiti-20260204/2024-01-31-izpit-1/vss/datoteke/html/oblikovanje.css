@@ -1,0 +1,42 @@
+/* * *  * * *  * * *  * * *  * * *
+Ta naloga je sestavljena iz dveh delov: HTML in CSS.
+Prvi del je v datoteki dokument.html.
+Pri točkovanju bomo upoštevali, ali (in do kakšne mere) je 
+izvorna koda dokumenta veljaven in urejen CSS.
+
+1. naloga 
+   Sklop deklaracij za razred .persian dopolnite 
+  z nastavitvijo širine na 40%.
+2. naloga
+   Dodajte izbiralec (selektor) za element h1.
+   V njegov sklop deklaracij dodajte deklaracijo za barvo besedila, 
+   ki naj ima vrednost rgb(202, 110, 153).
+
+ * * *  * * *  * * *  * * *  * * */
+
+body {
+    font-family: Garamond, "Hoefler Text", "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    line-height: 1.5;
+    max-width: 60%;
+    margin: auto;
+    text-align: justify;
+}
+
+.persian {
+    font-size: 0.9em;
+    text-align: left;
+    float: right;
+    margin-left: 2em;
+}
+
+img {
+    width: 100%; height: auto;
+}
+
+h2 { margin-top: 2em;
+    border-top: 1px #AAAAAA solid;
+    padding-top: 0.5em;
+    color: rgb(245, 58, 145);
+}
+

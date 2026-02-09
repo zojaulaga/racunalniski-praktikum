@@ -1,0 +1,101 @@
+
+<!-- * * *  * * *  * * *  * * *  * * *
+Ta naloga je sestavljena iz dveh delov: HTML in CSS.
+Drugi del je v datoteki oblikovanje.css.
+Pri točkovanju bomo upoštevali, ali (in do kakšne mere) je 
+izvorna koda dokumenta veljaven in urejen HTML5.
+
+  1. naloga
+     V dokumentu sta dve napaki. Smiselno ju popravite.
+     Pomagajte si z validatorjem, kot na vajah.
+     Naslov strani naj bo enak naslovu, ki ga najdete v znački h1.
+  2. naloga
+     Za prvim odstavkom vsebine je značka div. 
+     Dodajte ji atribut za razred z vrednostjo "slika".
+     V značko nad odstavek z avtorjem vstavite sliko z atributom alt.
+     Ime datoteke in vsebino atributa poiščite v komentarju na mestu, 
+     kjer morate vstaviti sliko.
+  3. naloga
+     Oblikujte tabelo na koncu dokumenta.
+     
+     * * *  * * *  * * *  * * *  * * * -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kurent</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="oblikovanje.css">
+  </head>
+  <body>
+    <h1>Kurent</h1>
+
+    <p>Vsebina te strani je povzeta po besedilu na strani <a
+      href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers">Kurent</a>
+      na Wikipediji.</p>
+    
+    <!-- slika -->
+    <div class="slika">
+      <img src="kurent.jpg" alt="Ptuj - Kurentovanje: praznovanje prihajajoče pomladi">
+      <p class="avtor">Foto: <em>Aleš Kravos, 2. marca 2019</em></p>
+    </div>
+
+    <p><strong>Kurent</strong> (tudi <strong>korant</strong>) je značilni pustni lik s Ptuja, 
+      Dravskega polja in okolice, v pustnem času nastopajo na tradicionalnem kurentovanju. 
+      Po izročilu s poskakovanjem kurenti s hudim truščem (zvonjenjem) iz dežele odganjajo 
+      zimo in zlo, vanjo pa kličejo pomlad ter dobro letino. 
+      Kurent ima na sebi ovčjo kožo, okrog pasu pripete zvonce, na glavi ima masko 
+      (iz ust mu moli dolg jezik, na vrhu pa ima rogove, okrašene s pisanimi trakovi), 
+      na nogah pa gamaše.</p>
+
+    <p>Izvor kurenta ni povsem znan ali pojasnjen, povezujejo pa ga z:</p>
+
+    <ol>
+      <li>z večtisoč letnim keltskim izročilom,</li>
+      <li>s čaščenjem Kibele iz pozne antike,</li>
+      <li>s predniki Slovencev iz 6. stoletja,</li>
+      <li>s prihodom Uskokov v 16. stoletju.</li>
+    </ol>
+
+    <h2>Razlike med pernatim in rogatim kurentom</h2>
+
+    <p>Poznamo dve vrsti kurentov, pernatega markovskega in rogatega haloškega.</p>
+
+
+    <!-- 3. naloga 
+      Spodaj oblikujte tabelo s tremi stolpci, z eno vrstico glave in štirimi običajnimi vrsticami.
+      Če vam zmanjkuje časa, oblikujte samo glavo in prvo navadno vrstico.
+      Vrstice so ločene s prazno vrstico, vrednost vsake celice je v svoji vrstici.
+    -->
+<table>
+  <thead>
+  <tr>
+    <th></th>
+        <th>Pernati</th>
+        <th>Rogati</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+      <td> Domovina</td>
+      <td> Markovci<br><em>Ptujsko polje</em></td>
+      <td> Lancova vas, Haloze<br><em>Dravsko polje</em></td>
+</tr>
+<tr>
+      <td>  Gamaše</td>
+      <td>  rdeče</td>
+      <td>  zelene</td>
+</tr>
+<tr>
+      <td>  Nos</td>
+      <td>  rilčast</td>
+      <td>  gobčast</td>
+ </tr>       
+<tr>
+      <td>  Ušesa</td>
+      <td>  -</td>
+      <td>  velika usnjena</td>
+</tr>
+</tbody>
+</table>
+  </body>
+</html>

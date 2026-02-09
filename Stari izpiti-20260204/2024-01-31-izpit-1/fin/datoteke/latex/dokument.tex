@@ -1,0 +1,58 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[slovene]{babel}
+\usepackage{amsfonts,amssymb,amsmath,mathrsfs,amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{lmodern}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\def\R{\mathbb{R}}  % mnozica realnih stevil
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\theoremstyle{definition}
+\newtheorem*{zgled}{Zgled}
+
+\newcommand{\B}{\mathscr{B}^1}
+
+\begin{document}
+\title{Thomaeova funkcija}
+\author{Beno Učakar}
+\date{}
+\maketitle
+
+Oglejmo si Thomaeovo funkcijo, ki je primer funkcije prvega Bairovega razreda.
+Take funkcije lahko definiramo na naslednji način.
+Naj bo $D \subseteq \R$. Funkcija $f : D \to \R$ je \emph{funkcija prvega Bairovega razreda}, 
+če obstaja funkcijsko zaporedje $\{f_n\}$ zveznih funkcij na $D$, ki po točkah konvergira k $f$. 
+Ta razred označimo z $\B(D)$ oziroma, če ne bo nevarnosti zmede, kar z $\B$.
+Klasične primere najdemo v \cite{counterexamples}
+
+% začetek zgleda
+\begin{zgled}[Thomaeova funkcija]
+    Funkcijsko zaporedje $f_n :(0,1) \to \R$ definiramo na sledeč način.
+    Za vsak $p,q \in \mathbb{N}_0$, $1 \le q < n$ in $0 \le p \le q$ definiramo
+    \begin{itemize}
+        \item \(f_n(x) = \max\left\{\frac{1}{n}, \frac{1}{q} + 2n^2\left(x - \frac{p}{q}\right)\right\}\) na intervalu \(\left(\frac{p}{q} - \frac{1}{2n^2}, \frac{p}{q}\right)\) in
+        \item \(f_n(x) = \max\left\{\frac{1}{n}, \frac{1}{q} - 2n^2\left(x - \frac{p}{q}\right)\right\}\) na intervalu \(\left(\frac{p}{q}, \frac{p}{q} + \frac{1}{2n^2}\right)\).
+    \end{itemize}
+    V vseh ostalih točkah naj bo $f_n(x) = \frac{1}{n}$.
+    Preverimo lahko, da so intervali $\left(\frac{p}{q} - \frac{1}{2n^2}, \frac{p}{q} + \frac{1}{2n^2}\right)$ paroma disjunktni in zgornja definicija je dobra.
+    Opazimo, da je $f_n(x)$ odsekoma linearna zvezna. Če vzamemo limito po točkah, dobimo
+
+    $$f(x)=\begin{cases}
+        \frac{1}{p}; & x=\frac{p}{q}\ \text{je pokrajšan ulomek za} p,q \in \mathbb{N} \\
+        0; & x \text{je iracionalen}
+    \end{cases}$$
+
+    Pokazali smo, da \emph{Thomaeova funkcija} pripada $\B$. 
+\end{zgled}
+% konec zgleda
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{viri}
+
+\end{document}

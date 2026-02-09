@@ -1,0 +1,53 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovene]{babel}
+\usepackage{lmodern}
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+
+\newcommand{\N}{\mathbb{N}}
+
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+
+% Peanovi aksiomi
+% Mojca Novak
+
+\begin{document}
+
+\title{Peanovi aksiomi}
+\author{Mojca Novak}
+\date{}
+\maketitle
+
+\begin{abstract}
+        V nadaljevanju je zapisana definicija Peanovih aksiomov.
+\end{abstract}
+
+     \begin{definicija}
+        \emph{Peanovi aksiomi}
+        Množica naravnih števil je množica $\N$ s funkcijo ??, 
+        ki vsakemu naravnemu številu $\N$ priredi njegovega neposrednega naslednika $\varphi(n)$. 
+        Pri tem veljajo naslednji aksiomi:
+        \begin{enumerate}
+            \item $\N$ vsebuje število $\epsilon$, ki ni neposredni naslednik nobenega naravnega števila;
+            \item neposredna naslednika dveh različnih naravnih števil sta različna, tj.\ funkcija $\varphi$ je injektivna: 
+            če je ??, je ??;
+            \item Če za podmnožico ?? veljata lastnosti:
+            \begin{enumerate}
+                \item ?? in
+                \item če je ??, je tudi ??,
+                potem je $A = \N$.
+            \end{enumerate}
+        \end{enumerate}
+    \end{definicija} 
+        % konec definicije
+
+Povzeto po zapiskih \cite{slika} in \cite{zapiski}.
+\bibliographystyle{plain}
+\bibliography{viri}   
+    
+\end{document}

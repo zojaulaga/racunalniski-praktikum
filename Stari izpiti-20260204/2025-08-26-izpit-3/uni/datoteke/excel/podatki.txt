@@ -1,0 +1,41 @@
+disciplina	spol	ime	država	čas	kazen
+kajak	m	Butcher Finn	NZL	84,42	106
+kajak	m	Castryck Titouan	FRA	82	0
+kajak	m	De Gennaro Giovanni	ITA	79,07	0
+kajak	m	Delassus Anatole	FRA	84,52	50
+kajak	m	Dougoud Martin	SUI	83,31	0
+kajak	m	Kauzer Peter	SLO	81,87	0
+kajak	m	Krejci Jakub	CZE	81,35	0
+kajak	m	Ohrstrom Isak	SWE	85,7	4
+kajak	m	Polaczyk Mateusz	POL	81,28	0
+kajak	m	Tominc Lan	SLO	86,99	6
+kajak	ž	Bekova Katerina	CZE	96,03	4
+kajak	ž	Fox Jessica	AUS	90,29	4
+kajak	ž	Funk Ricarda	GER	90,4	4
+kajak	ž	Galuskova Antonie	CZE	93,35	2
+kajak	ž	Kuhnle Corinna	AUT	93,15	2
+kajak	ž	Satila Ana	BRA	96,03	2
+kajak	ž	Satkova Gabriela	CZE	94,71	2
+kajak	ž	Tercelj Eva	SLO	94,62	0
+kajak	ž	Vuitton Emma	FRA	94,12	0
+kajak	ž	Woods Kimberley	GBR	93,36	2
+kanu	m	Anton Franz	GER	92,89	2
+kanu	m	Bassett Kaylen	AUS	92,63	2
+kanu	m	Benus Matej	SVK	91,94	0
+kanu	m	Debliquy Mewen	FRA	94,52	50
+kanu	m	Gargaud Chanut Denis	FRA	95,54	2
+kanu	m	Gestin Nicolas	FRA	86,43	2
+kanu	m	Mirgorodsky Marko	SVK	89,81	2
+kanu	m	Prskavec Jiri	CZE	86,32	0
+kanu	m	Savsek Benjamin	SLO	87,14	0
+kanu	m	Trummer Timo	GER	85,25	4
+kanu	ž	Bayn Nele	GER	102,77	0
+kanu	ž	Fox Jessica	AUS	93,94	4
+kanu	ž	Franklin Mallory	GBR	82,42	252
+kanu	ž	Herzog Andrea	GER	96,43	2
+kanu	ž	Hug Angele	FRA	102,22	0
+kanu	ž	Leibfarth Evy	USA	112,37	50
+kanu	ž	Pankova Zuzana	SVK	98,56	0
+kanu	ž	Satila Ana	BRA	98,67	0
+kanu	ž	Satkova Gabriela	CZE	94,35	2
+kanu	ž	Satkova Martina	CZE	102,85	2

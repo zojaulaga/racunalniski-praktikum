@@ -1,0 +1,1081 @@
+Regija;Datum;Izdelek;Količina (kg/l);Cena na enoto (€)
+Celje;2023-01-01;Vino;13;7,61
+Celje;2023-01-02;Vino;29;17,5
+Celje;2023-01-03;Vino;23;5,26
+Celje;2023-01-04;Vino;11;7,82
+Celje;2023-01-05;Vino;16;15,25
+Celje;2023-01-06;Vino;25;18,87
+Celje;2023-01-07;Vino;9;19,39
+Celje;2023-01-08;Vino;25;6,49
+Celje;2023-01-09;Vino;9;9,34
+Celje;2023-01-10;Vino;5;19,51
+Celje;2023-01-11;Vino;9;13,5
+Celje;2023-01-12;Vino;15;10,34
+Celje;2023-01-13;Vino;14;10,09
+Celje;2023-01-14;Vino;10;8,42
+Celje;2023-01-15;Vino;7;6,85
+Celje;2023-01-16;Vino;14;17,39
+Celje;2023-01-17;Vino;16;15,38
+Celje;2023-01-18;Vino;11;7,47
+Celje;2023-01-19;Vino;19;12,64
+Celje;2023-01-20;Vino;3;6,4
+Celje;2023-01-21;Vino;20;19,07
+Celje;2023-01-22;Vino;18;9,36
+Celje;2023-01-23;Vino;24;17,24
+Celje;2023-01-24;Vino;15;6,14
+Celje;2023-01-25;Vino;18;12,26
+Celje;2023-01-26;Vino;29;18,38
+Celje;2023-01-27;Vino;21;5,47
+Celje;2023-01-28;Vino;24;18,82
+Celje;2023-01-29;Vino;27;12,05
+Celje;2023-01-30;Vino;13;8,15
+Celje;2023-01-31;Vino;22;12,26
+Celje;2023-02-01;Vino;11;11,44
+Celje;2023-02-02;Vino;6;15,83
+Celje;2023-02-03;Vino;20;12,17
+Celje;2023-02-04;Vino;8;13,18
+Celje;2023-02-05;Vino;20;10,17
+Celje;2023-02-06;Vino;17;18,61
+Celje;2023-02-07;Vino;27;5,85
+Celje;2023-02-08;Vino;8;18,73
+Celje;2023-02-09;Vino;18;15,51
+Celje;2023-02-10;Vino;5;18,47
+Celje;2023-02-11;Vino;18;16,58
+Celje;2023-02-12;Vino;26;7,35
+Celje;2023-02-13;Vino;7;11,25
+Celje;2023-02-14;Vino;29;18,51
+Celje;2023-02-15;Vino;4;12,11
+Celje;2023-02-16;Vino;14;7,64
+Celje;2023-02-17;Vino;10;5,55
+Celje;2023-02-18;Vino;7;14,99
+Celje;2023-02-19;Vino;23;15,39
+Celje;2023-02-20;Vino;21;13,24
+Celje;2023-02-21;Vino;8;16,49
+Celje;2023-02-22;Vino;7;8,95
+Celje;2023-02-23;Vino;14;8,83
+Celje;2023-02-24;Vino;22;16,73
+Celje;2023-02-25;Vino;5;7,46
+Celje;2023-02-26;Vino;8;19,58
+Celje;2023-02-27;Vino;8;9,77
+Celje;2023-02-28;Vino;15;18,34
+Celje;2023-03-01;Vino;23;14,36
+Celje;2023-03-02;Vino;22;8,53
+Celje;2023-03-03;Vino;23;16,33
+Celje;2023-03-04;Vino;12;15,54
+Celje;2023-03-05;Vino;20;14,49
+Celje;2023-03-06;Vino;9;15,69
+Celje;2023-03-07;Vino;10;19,04
+Celje;2023-03-08;Vino;17;5,01
+Celje;2023-03-09;Vino;20;5,02
+Celje;2023-03-10;Vino;10;8,52
+Celje;2023-03-11;Vino;20;18,85
+Celje;2023-03-12;Vino;23;17,88
+Celje;2023-03-13;Vino;16;11,17
+Celje;2023-03-14;Vino;3;5,72
+Celje;2023-03-15;Vino;11;18,12
+Celje;2023-03-16;Vino;22;17,2
+Celje;2023-03-17;Vino;14;14,14
+Celje;2023-03-18;Vino;19;8,43
+Celje;2023-03-19;Vino;14;9,49
+Celje;2023-03-20;Vino;16;17,46
+Celje;2023-03-21;Vino;4;5,75
+Celje;2023-03-22;Vino;24;17,61
+Celje;2023-03-23;Vino;21;18,38
+Celje;2023-03-24;Vino;21;10,55
+Celje;2023-03-25;Vino;3;10,04
+Celje;2023-03-26;Vino;24;19,99
+Celje;2023-03-27;Vino;22;5,14
+Celje;2023-03-28;Vino;10;7,56
+Celje;2023-03-29;Vino;7;9,53
+Celje;2023-03-30;Vino;20;11,05
+Celje;2023-03-31;Vino;11;5,37
+Celje;2023-01-01;Sir;21;9,46
+Celje;2023-01-02;Sir;6;14,87
+Celje;2023-01-03;Sir;17;6,0
+Celje;2023-01-04;Sir;5;16,63
+Celje;2023-01-05;Sir;28;17,5
+Celje;2023-01-06;Sir;8;10,75
+Celje;2023-01-07;Sir;29;13,45
+Celje;2023-01-08;Sir;8;19,06
+Celje;2023-01-09;Sir;5;12,71
+Celje;2023-01-10;Sir;16;12,81
+Celje;2023-01-11;Sir;19;15,98
+Celje;2023-01-12;Sir;24;16,81
+Celje;2023-01-13;Sir;23;6,25
+Celje;2023-01-14;Sir;18;14,75
+Celje;2023-01-15;Sir;5;6,84
+Celje;2023-01-16;Sir;16;11,27
+Celje;2023-01-17;Sir;25;13,39
+Celje;2023-01-18;Sir;25;12,63
+Celje;2023-01-19;Sir;10;17,07
+Celje;2023-01-20;Sir;8;18,66
+Celje;2023-01-21;Sir;26;17,15
+Celje;2023-01-22;Sir;9;9,42
+Celje;2023-01-23;Sir;22;18,94
+Celje;2023-01-24;Sir;23;13,8
+Celje;2023-01-25;Sir;24;5,71
+Celje;2023-01-26;Sir;7;11,04
+Celje;2023-01-27;Sir;26;19,8
+Celje;2023-01-28;Sir;16;6,88
+Celje;2023-01-29;Sir;8;8,38
+Celje;2023-01-30;Sir;11;11,96
+Celje;2023-01-31;Sir;20;6,63
+Celje;2023-02-01;Sir;16;19,14
+Celje;2023-02-02;Sir;10;12,67
+Celje;2023-02-03;Sir;11;19,51
+Celje;2023-02-04;Sir;12;6,28
+Celje;2023-02-05;Sir;5;8,28
+Celje;2023-02-06;Sir;14;17,92
+Celje;2023-02-07;Sir;24;15,57
+Celje;2023-02-08;Sir;24;14,13
+Celje;2023-02-09;Sir;5;18,21
+Celje;2023-02-10;Sir;20;5,15
+Celje;2023-02-11;Sir;14;9,03
+Celje;2023-02-12;Sir;7;16,12
+Celje;2023-02-13;Sir;10;5,16
+Celje;2023-02-14;Sir;6;7,03
+Celje;2023-02-15;Sir;24;15,1
+Celje;2023-02-16;Sir;22;11,73
+Celje;2023-02-17;Sir;11;18,9
+Celje;2023-02-18;Sir;8;19,1
+Celje;2023-02-19;Sir;8;11,94
+Celje;2023-02-20;Sir;22;9,14
+Celje;2023-02-21;Sir;27;9,02
+Celje;2023-02-22;Sir;29;14,89
+Celje;2023-02-23;Sir;15;14,8
+Celje;2023-02-24;Sir;11;14,75
+Celje;2023-02-25;Sir;17;13,67
+Celje;2023-02-26;Sir;20;5,07
+Celje;2023-02-27;Sir;6;5,0
+Celje;2023-02-28;Sir;22;14,56
+Celje;2023-03-01;Sir;29;9,67
+Celje;2023-03-02;Sir;22;16,24
+Celje;2023-03-03;Sir;15;19,65
+Celje;2023-03-04;Sir;22;13,05
+Celje;2023-03-05;Sir;10;17,59
+Celje;2023-03-06;Sir;5;12,33
+Celje;2023-03-07;Sir;23;17,46
+Celje;2023-03-08;Sir;14;6,1
+Celje;2023-03-09;Sir;12;15,6
+Celje;2023-03-10;Sir;18;13,87
+Celje;2023-03-11;Sir;14;9,81
+Celje;2023-03-12;Sir;3;11,8
+Celje;2023-03-13;Sir;17;16,6
+Celje;2023-03-14;Sir;9;18,23
+Celje;2023-03-15;Sir;6;14,52
+Celje;2023-03-16;Sir;19;9,82
+Celje;2023-03-17;Sir;25;7,23
+Celje;2023-03-18;Sir;16;14,21
+Celje;2023-03-19;Sir;17;19,22
+Celje;2023-03-20;Sir;13;6,51
+Celje;2023-03-21;Sir;18;9,14
+Celje;2023-03-22;Sir;10;17,47
+Celje;2023-03-23;Sir;5;13,11
+Celje;2023-03-24;Sir;26;16,55
+Celje;2023-03-25;Sir;13;19,63
+Celje;2023-03-26;Sir;17;16,59
+Celje;2023-03-27;Sir;23;10,32
+Celje;2023-03-28;Sir;8;12,84
+Celje;2023-03-29;Sir;24;18,22
+Celje;2023-03-30;Sir;12;5,62
+Celje;2023-03-31;Sir;16;11,33
+Celje;2023-01-01;Sadje;27;18,48
+Celje;2023-01-02;Sadje;16;10,75
+Celje;2023-01-03;Sadje;4;9,3
+Celje;2023-01-04;Sadje;10;15,47
+Celje;2023-01-05;Sadje;13;10,41
+Celje;2023-01-06;Sadje;19;18,82
+Celje;2023-01-07;Sadje;26;5,95
+Celje;2023-01-08;Sadje;6;8,06
+Celje;2023-01-09;Sadje;20;17,23
+Celje;2023-01-10;Sadje;18;11,14
+Celje;2023-01-11;Sadje;15;12,39
+Celje;2023-01-12;Sadje;26;15,99
+Celje;2023-01-13;Sadje;11;5,44
+Celje;2023-01-14;Sadje;12;11,91
+Celje;2023-01-15;Sadje;9;8,88
+Celje;2023-01-16;Sadje;24;17,86
+Celje;2023-01-17;Sadje;26;17,02
+Celje;2023-01-18;Sadje;4;13,48
+Celje;2023-01-19;Sadje;9;6,0
+Celje;2023-01-20;Sadje;22;12,95
+Celje;2023-01-21;Sadje;18;5,63
+Celje;2023-01-22;Sadje;15;5,28
+Celje;2023-01-23;Sadje;4;5,93
+Celje;2023-01-24;Sadje;8;15,8
+Celje;2023-01-25;Sadje;4;17,16
+Celje;2023-01-26;Sadje;23;9,18
+Celje;2023-01-27;Sadje;25;17,94
+Celje;2023-01-28;Sadje;14;10,95
+Celje;2023-01-29;Sadje;9;11,5
+Celje;2023-01-30;Sadje;29;18,7
+Celje;2023-01-31;Sadje;21;9,05
+Celje;2023-02-01;Sadje;21;10,92
+Celje;2023-02-02;Sadje;29;15,24
+Celje;2023-02-03;Sadje;24;6,6
+Celje;2023-02-04;Sadje;6;12,82
+Celje;2023-02-05;Sadje;22;6,56
+Celje;2023-02-06;Sadje;8;16,37
+Celje;2023-02-07;Sadje;16;11,29
+Celje;2023-02-08;Sadje;28;19,7
+Celje;2023-02-09;Sadje;8;19,32
+Celje;2023-02-10;Sadje;23;15,97
+Celje;2023-02-11;Sadje;3;7,55
+Celje;2023-02-12;Sadje;10;12,47
+Celje;2023-02-13;Sadje;14;7,65
+Celje;2023-02-14;Sadje;26;16,66
+Celje;2023-02-15;Sadje;29;13,37
+Celje;2023-02-16;Sadje;26;7,29
+Celje;2023-02-17;Sadje;22;6,7
+Celje;2023-02-18;Sadje;15;11,57
+Celje;2023-02-19;Sadje;7;8,53
+Celje;2023-02-20;Sadje;10;9,99
+Celje;2023-02-21;Sadje;10;8,78
+Celje;2023-02-22;Sadje;25;17,83
+Celje;2023-02-23;Sadje;6;5,35
+Celje;2023-02-24;Sadje;21;12,08
+Celje;2023-02-25;Sadje;24;15,24
+Celje;2023-02-26;Sadje;5;16,56
+Celje;2023-02-27;Sadje;23;13,34
+Celje;2023-02-28;Sadje;6;19,61
+Celje;2023-03-01;Sadje;17;15,06
+Celje;2023-03-02;Sadje;23;17,59
+Celje;2023-03-03;Sadje;8;5,47
+Celje;2023-03-04;Sadje;26;13,23
+Celje;2023-03-05;Sadje;11;12,91
+Celje;2023-03-06;Sadje;12;14,74
+Celje;2023-03-07;Sadje;14;12,13
+Celje;2023-03-08;Sadje;28;6,41
+Celje;2023-03-09;Sadje;12;7,67
+Celje;2023-03-10;Sadje;28;18,67
+Celje;2023-03-11;Sadje;21;6,52
+Celje;2023-03-12;Sadje;3;16,59
+Celje;2023-03-13;Sadje;24;19,53
+Celje;2023-03-14;Sadje;17;11,14
+Celje;2023-03-15;Sadje;15;18,54
+Celje;2023-03-16;Sadje;22;19,7
+Celje;2023-03-17;Sadje;27;10,07
+Celje;2023-03-18;Sadje;3;9,35
+Celje;2023-03-19;Sadje;19;12,98
+Celje;2023-03-20;Sadje;6;16,66
+Celje;2023-03-21;Sadje;3;14,35
+Celje;2023-03-22;Sadje;28;8,06
+Celje;2023-03-23;Sadje;14;8,09
+Celje;2023-03-24;Sadje;13;16,34
+Celje;2023-03-25;Sadje;3;14,84
+Celje;2023-03-26;Sadje;5;6,0
+Celje;2023-03-27;Sadje;8;15,34
+Celje;2023-03-28;Sadje;24;15,2
+Celje;2023-03-29;Sadje;29;18,15
+Celje;2023-03-30;Sadje;6;6,27
+Celje;2023-03-31;Sadje;19;13,78
+Ptuj;2023-01-01;Vino;10;12,73
+Ptuj;2023-01-02;Vino;12;13,21
+Ptuj;2023-01-03;Vino;18;19,69
+Ptuj;2023-01-04;Vino;14;6,39
+Ptuj;2023-01-05;Vino;12;8,99
+Ptuj;2023-01-06;Vino;16;6,45
+Ptuj;2023-01-07;Vino;3;8,48
+Ptuj;2023-01-08;Vino;26;18,49
+Ptuj;2023-01-09;Vino;15;17,28
+Ptuj;2023-01-10;Vino;20;17,26
+Ptuj;2023-01-11;Vino;5;16,35
+Ptuj;2023-01-12;Vino;11;9,34
+Ptuj;2023-01-13;Vino;3;6,78
+Ptuj;2023-01-14;Vino;10;15,26
+Ptuj;2023-01-15;Vino;11;11,21
+Ptuj;2023-01-16;Vino;15;6,06
+Ptuj;2023-01-17;Vino;13;5,64
+Ptuj;2023-01-18;Vino;28;10,59
+Ptuj;2023-01-19;Vino;10;13,6
+Ptuj;2023-01-20;Vino;27;15,61
+Ptuj;2023-01-21;Vino;20;8,43
+Ptuj;2023-01-22;Vino;26;15,99
+Ptuj;2023-01-23;Vino;21;5,04
+Ptuj;2023-01-24;Vino;11;14,15
+Ptuj;2023-01-25;Vino;7;8,01
+Ptuj;2023-01-26;Vino;15;10,83
+Ptuj;2023-01-27;Vino;20;9,56
+Ptuj;2023-01-28;Vino;25;14,9
+Ptuj;2023-01-29;Vino;5;18,46
+Ptuj;2023-01-30;Vino;25;16,66
+Ptuj;2023-01-31;Vino;24;16,11
+Ptuj;2023-02-01;Vino;27;18,77
+Ptuj;2023-02-02;Vino;26;13,05
+Ptuj;2023-02-03;Vino;3;9,24
+Ptuj;2023-02-04;Vino;21;8,67
+Ptuj;2023-02-05;Vino;15;19,46
+Ptuj;2023-02-06;Vino;9;13,57
+Ptuj;2023-02-07;Vino;28;14,2
+Ptuj;2023-02-08;Vino;22;7,6
+Ptuj;2023-02-09;Vino;13;17,26
+Ptuj;2023-02-10;Vino;27;6,08
+Ptuj;2023-02-11;Vino;25;10,53
+Ptuj;2023-02-12;Vino;20;19,88
+Ptuj;2023-02-13;Vino;20;19,32
+Ptuj;2023-02-14;Vino;22;8,61
+Ptuj;2023-02-15;Vino;19;11,05
+Ptuj;2023-02-16;Vino;9;11,68
+Ptuj;2023-02-17;Vino;20;16,34
+Ptuj;2023-02-18;Vino;24;18,25
+Ptuj;2023-02-19;Vino;25;16,85
+Ptuj;2023-02-20;Vino;20;14,28
+Ptuj;2023-02-21;Vino;10;7,11
+Ptuj;2023-02-22;Vino;12;16,47
+Ptuj;2023-02-23;Vino;12;8,15
+Ptuj;2023-02-24;Vino;6;11,98
+Ptuj;2023-02-25;Vino;4;6,13
+Ptuj;2023-02-26;Vino;13;11,13
+Ptuj;2023-02-27;Vino;16;19,06
+Ptuj;2023-02-28;Vino;16;12,56
+Ptuj;2023-03-01;Vino;27;10,1
+Ptuj;2023-03-02;Vino;22;9,51
+Ptuj;2023-03-03;Vino;10;8,62
+Ptuj;2023-03-04;Vino;20;11,21
+Ptuj;2023-03-05;Vino;4;7,13
+Ptuj;2023-03-06;Vino;13;13,3
+Ptuj;2023-03-07;Vino;10;12,88
+Ptuj;2023-03-08;Vino;6;12,31
+Ptuj;2023-03-09;Vino;9;19,24
+Ptuj;2023-03-10;Vino;8;13,01
+Ptuj;2023-03-11;Vino;6;18,31
+Ptuj;2023-03-12;Vino;13;19,23
+Ptuj;2023-03-13;Vino;16;9,77
+Ptuj;2023-03-14;Vino;4;8,41
+Ptuj;2023-03-15;Vino;8;11,51
+Ptuj;2023-03-16;Vino;23;18,71
+Ptuj;2023-03-17;Vino;19;5,83
+Ptuj;2023-03-18;Vino;10;6,26
+Ptuj;2023-03-19;Vino;18;13,77
+Ptuj;2023-03-20;Vino;27;8,95
+Ptuj;2023-03-21;Vino;19;6,95
+Ptuj;2023-03-22;Vino;27;14,86
+Ptuj;2023-03-23;Vino;5;8,43
+Ptuj;2023-03-24;Vino;6;10,81
+Ptuj;2023-03-25;Vino;24;19,44
+Ptuj;2023-03-26;Vino;19;11,07
+Ptuj;2023-03-27;Vino;11;7,45
+Ptuj;2023-03-28;Vino;13;15,93
+Ptuj;2023-03-29;Vino;16;8,94
+Ptuj;2023-03-30;Vino;21;13,58
+Ptuj;2023-03-31;Vino;24;17,07
+Ptuj;2023-01-01;Sir;22;15,51
+Ptuj;2023-01-02;Sir;8;16,44
+Ptuj;2023-01-03;Sir;29;7,32
+Ptuj;2023-01-04;Sir;9;17,14
+Ptuj;2023-01-05;Sir;9;6,75
+Ptuj;2023-01-06;Sir;28;19,09
+Ptuj;2023-01-07;Sir;24;8,95
+Ptuj;2023-01-08;Sir;8;6,09
+Ptuj;2023-01-09;Sir;23;14,97
+Ptuj;2023-01-10;Sir;29;11,44
+Ptuj;2023-01-11;Sir;15;6,22
+Ptuj;2023-01-12;Sir;3;13,89
+Ptuj;2023-01-13;Sir;9;13,61
+Ptuj;2023-01-14;Sir;20;13,8
+Ptuj;2023-01-15;Sir;13;16,89
+Ptuj;2023-01-16;Sir;18;16,63
+Ptuj;2023-01-17;Sir;9;9,92
+Ptuj;2023-01-18;Sir;26;9,81
+Ptuj;2023-01-19;Sir;8;6,44
+Ptuj;2023-01-20;Sir;14;7,01
+Ptuj;2023-01-21;Sir;14;16,98
+Ptuj;2023-01-22;Sir;25;8,43
+Ptuj;2023-01-23;Sir;13;17,31
+Ptuj;2023-01-24;Sir;3;11,81
+Ptuj;2023-01-25;Sir;21;17,9
+Ptuj;2023-01-26;Sir;12;14,99
+Ptuj;2023-01-27;Sir;5;6,3
+Ptuj;2023-01-28;Sir;9;16,18
+Ptuj;2023-01-29;Sir;12;14,08
+Ptuj;2023-01-30;Sir;25;6,3
+Ptuj;2023-01-31;Sir;21;19,92
+Ptuj;2023-02-01;Sir;8;12,38
+Ptuj;2023-02-02;Sir;9;14,83
+Ptuj;2023-02-03;Sir;6;7,5
+Ptuj;2023-02-04;Sir;9;9,27
+Ptuj;2023-02-05;Sir;18;14,62
+Ptuj;2023-02-06;Sir;28;5,08
+Ptuj;2023-02-07;Sir;26;15,15
+Ptuj;2023-02-08;Sir;17;13,11
+Ptuj;2023-02-09;Sir;22;12,23
+Ptuj;2023-02-10;Sir;4;6,9
+Ptuj;2023-02-11;Sir;6;13,63
+Ptuj;2023-02-12;Sir;19;8,51
+Ptuj;2023-02-13;Sir;26;19,8
+Ptuj;2023-02-14;Sir;20;5,58
+Ptuj;2023-02-15;Sir;14;6,35
+Ptuj;2023-02-16;Sir;14;10,77
+Ptuj;2023-02-17;Sir;29;9,79
+Ptuj;2023-02-18;Sir;22;13,65
+Ptuj;2023-02-19;Sir;28;12,21
+Ptuj;2023-02-20;Sir;22;10,7
+Ptuj;2023-02-21;Sir;23;12,38
+Ptuj;2023-02-22;Sir;22;17,78
+Ptuj;2023-02-23;Sir;11;12,92
+Ptuj;2023-02-24;Sir;21;14,97
+Ptuj;2023-02-25;Sir;27;18,13
+Ptuj;2023-02-26;Sir;15;5,5
+Ptuj;2023-02-27;Sir;9;17,17
+Ptuj;2023-02-28;Sir;21;6,56
+Ptuj;2023-03-01;Sir;26;7,12
+Ptuj;2023-03-02;Sir;17;17,67
+Ptuj;2023-03-03;Sir;11;10,19
+Ptuj;2023-03-04;Sir;23;9,99
+Ptuj;2023-03-05;Sir;26;12,83
+Ptuj;2023-03-06;Sir;29;19,46
+Ptuj;2023-03-07;Sir;23;18,66
+Ptuj;2023-03-08;Sir;25;5,0
+Ptuj;2023-03-09;Sir;29;14,48
+Ptuj;2023-03-10;Sir;7;19,37
+Ptuj;2023-03-11;Sir;16;7,68
+Ptuj;2023-03-12;Sir;12;8,73
+Ptuj;2023-03-13;Sir;23;7,16
+Ptuj;2023-03-14;Sir;10;8,83
+Ptuj;2023-03-15;Sir;15;16,32
+Ptuj;2023-03-16;Sir;11;15,94
+Ptuj;2023-03-17;Sir;23;9,17
+Ptuj;2023-03-18;Sir;19;19,57
+Ptuj;2023-03-19;Sir;26;8,92
+Ptuj;2023-03-20;Sir;11;7,08
+Ptuj;2023-03-21;Sir;27;13,64
+Ptuj;2023-03-22;Sir;15;19,79
+Ptuj;2023-03-23;Sir;24;7,02
+Ptuj;2023-03-24;Sir;10;6,55
+Ptuj;2023-03-25;Sir;21;7,94
+Ptuj;2023-03-26;Sir;11;14,34
+Ptuj;2023-03-27;Sir;29;19,32
+Ptuj;2023-03-28;Sir;11;7,29
+Ptuj;2023-03-29;Sir;13;16,81
+Ptuj;2023-03-30;Sir;18;5,14
+Ptuj;2023-03-31;Sir;4;6,36
+Ptuj;2023-01-01;Sadje;27;17,49
+Ptuj;2023-01-02;Sadje;27;12,69
+Ptuj;2023-01-03;Sadje;3;18,19
+Ptuj;2023-01-04;Sadje;28;13,06
+Ptuj;2023-01-05;Sadje;4;6,32
+Ptuj;2023-01-06;Sadje;21;14,74
+Ptuj;2023-01-07;Sadje;4;5,0
+Ptuj;2023-01-08;Sadje;20;16,52
+Ptuj;2023-01-09;Sadje;17;5,5
+Ptuj;2023-01-10;Sadje;14;17,58
+Ptuj;2023-01-11;Sadje;11;10,81
+Ptuj;2023-01-12;Sadje;7;14,5
+Ptuj;2023-01-13;Sadje;25;12,68
+Ptuj;2023-01-14;Sadje;7;9,07
+Ptuj;2023-01-15;Sadje;5;5,8
+Ptuj;2023-01-16;Sadje;29;11,64
+Ptuj;2023-01-17;Sadje;11;16,66
+Ptuj;2023-01-18;Sadje;3;17,11
+Ptuj;2023-01-19;Sadje;3;12,35
+Ptuj;2023-01-20;Sadje;26;17,38
+Ptuj;2023-01-21;Sadje;3;19,34
+Ptuj;2023-01-22;Sadje;17;8,91
+Ptuj;2023-01-23;Sadje;19;11,6
+Ptuj;2023-01-24;Sadje;11;10,71
+Ptuj;2023-01-25;Sadje;14;8,78
+Ptuj;2023-01-26;Sadje;22;17,06
+Ptuj;2023-01-27;Sadje;28;8,88
+Ptuj;2023-01-28;Sadje;24;9,6
+Ptuj;2023-01-29;Sadje;3;16,64
+Ptuj;2023-01-30;Sadje;10;7,98
+Ptuj;2023-01-31;Sadje;25;18,92
+Ptuj;2023-02-01;Sadje;25;7,43
+Ptuj;2023-02-02;Sadje;8;15,2
+Ptuj;2023-02-03;Sadje;20;17,04
+Ptuj;2023-02-04;Sadje;3;12,89
+Ptuj;2023-02-05;Sadje;8;9,14
+Ptuj;2023-02-06;Sadje;8;5,44
+Ptuj;2023-02-07;Sadje;13;13,88
+Ptuj;2023-02-08;Sadje;28;16,66
+Ptuj;2023-02-09;Sadje;15;15,55
+Ptuj;2023-02-10;Sadje;28;19,5
+Ptuj;2023-02-11;Sadje;21;12,36
+Ptuj;2023-02-12;Sadje;26;11,17
+Ptuj;2023-02-13;Sadje;16;8,64
+Ptuj;2023-02-14;Sadje;8;7,66
+Ptuj;2023-02-15;Sadje;20;9,82
+Ptuj;2023-02-16;Sadje;29;8,61
+Ptuj;2023-02-17;Sadje;10;15,98
+Ptuj;2023-02-18;Sadje;19;15,05
+Ptuj;2023-02-19;Sadje;16;16,42
+Ptuj;2023-02-20;Sadje;7;16,45
+Ptuj;2023-02-21;Sadje;26;19,21
+Ptuj;2023-02-22;Sadje;8;10,29
+Ptuj;2023-02-23;Sadje;28;16,36
+Ptuj;2023-02-24;Sadje;17;11,84
+Ptuj;2023-02-25;Sadje;20;5,03
+Ptuj;2023-02-26;Sadje;28;11,01
+Ptuj;2023-02-27;Sadje;18;9,38
+Ptuj;2023-02-28;Sadje;16;19,33
+Ptuj;2023-03-01;Sadje;27;14,31
+Ptuj;2023-03-02;Sadje;12;8,3
+Ptuj;2023-03-03;Sadje;20;8,89
+Ptuj;2023-03-04;Sadje;21;13,96
+Ptuj;2023-03-05;Sadje;25;18,62
+Ptuj;2023-03-06;Sadje;13;15,15
+Ptuj;2023-03-07;Sadje;20;5,06
+Ptuj;2023-03-08;Sadje;18;15,16
+Ptuj;2023-03-09;Sadje;13;18,73
+Ptuj;2023-03-10;Sadje;22;18,02
+Ptuj;2023-03-11;Sadje;18;11,7
+Ptuj;2023-03-12;Sadje;28;5,2
+Ptuj;2023-03-13;Sadje;11;5,64
+Ptuj;2023-03-14;Sadje;24;10,31
+Ptuj;2023-03-15;Sadje;27;15,38
+Ptuj;2023-03-16;Sadje;5;13,11
+Ptuj;2023-03-17;Sadje;15;6,58
+Ptuj;2023-03-18;Sadje;16;8,74
+Ptuj;2023-03-19;Sadje;21;16,16
+Ptuj;2023-03-20;Sadje;9;9,27
+Ptuj;2023-03-21;Sadje;29;8,63
+Ptuj;2023-03-22;Sadje;10;12,03
+Ptuj;2023-03-23;Sadje;14;13,04
+Ptuj;2023-03-24;Sadje;23;9,33
+Ptuj;2023-03-25;Sadje;10;10,96
+Ptuj;2023-03-26;Sadje;14;13,38
+Ptuj;2023-03-27;Sadje;18;8,29
+Ptuj;2023-03-28;Sadje;12;12,04
+Ptuj;2023-03-29;Sadje;12;19,93
+Ptuj;2023-03-30;Sadje;24;7,33
+Ptuj;2023-03-31;Sadje;8;18,99
+Nova Gorica;2023-01-01;Vino;17;9,25
+Nova Gorica;2023-01-02;Vino;19;6,72
+Nova Gorica;2023-01-03;Vino;23;9,17
+Nova Gorica;2023-01-04;Vino;11;14,36
+Nova Gorica;2023-01-05;Vino;8;11,96
+Nova Gorica;2023-01-06;Vino;6;8,18
+Nova Gorica;2023-01-07;Vino;28;9,88
+Nova Gorica;2023-01-08;Vino;9;7,3
+Nova Gorica;2023-01-09;Vino;21;9,44
+Nova Gorica;2023-01-10;Vino;25;18,32
+Nova Gorica;2023-01-11;Vino;9;14,8
+Nova Gorica;2023-01-12;Vino;9;10,1
+Nova Gorica;2023-01-13;Vino;11;12,65
+Nova Gorica;2023-01-14;Vino;15;9,33
+Nova Gorica;2023-01-15;Vino;17;15,24
+Nova Gorica;2023-01-16;Vino;18;10,12
+Nova Gorica;2023-01-17;Vino;13;15,86
+Nova Gorica;2023-01-18;Vino;16;12,48
+Nova Gorica;2023-01-19;Vino;14;15,28
+Nova Gorica;2023-01-20;Vino;4;7,04
+Nova Gorica;2023-01-21;Vino;16;19,06
+Nova Gorica;2023-01-22;Vino;23;5,03
+Nova Gorica;2023-01-23;Vino;18;19,3
+Nova Gorica;2023-01-24;Vino;13;8,44
+Nova Gorica;2023-01-25;Vino;10;9,1
+Nova Gorica;2023-01-26;Vino;10;15,73
+Nova Gorica;2023-01-27;Vino;29;13,99
+Nova Gorica;2023-01-28;Vino;29;19,24
+Nova Gorica;2023-01-29;Vino;23;11,07
+Nova Gorica;2023-01-30;Vino;13;14,02
+Nova Gorica;2023-01-31;Vino;8;5,29
+Nova Gorica;2023-02-01;Vino;11;14,42
+Nova Gorica;2023-02-02;Vino;29;11,76
+Nova Gorica;2023-02-03;Vino;23;5,97
+Nova Gorica;2023-02-04;Vino;23;14,01
+Nova Gorica;2023-02-05;Vino;9;12,94
+Nova Gorica;2023-02-06;Vino;24;10,75
+Nova Gorica;2023-02-07;Vino;28;15,03
+Nova Gorica;2023-02-08;Vino;3;9,72
+Nova Gorica;2023-02-09;Vino;26;11,67
+Nova Gorica;2023-02-10;Vino;20;13,14
+Nova Gorica;2023-02-11;Vino;13;15,23
+Nova Gorica;2023-02-12;Vino;25;5,01
+Nova Gorica;2023-02-13;Vino;18;15,6
+Nova Gorica;2023-02-14;Vino;26;8,41
+Nova Gorica;2023-02-15;Vino;6;9,99
+Nova Gorica;2023-02-16;Vino;19;16,48
+Nova Gorica;2023-02-17;Vino;17;19,28
+Nova Gorica;2023-02-18;Vino;17;7,91
+Nova Gorica;2023-02-19;Vino;20;8,65
+Nova Gorica;2023-02-20;Vino;6;8,52
+Nova Gorica;2023-02-21;Vino;8;19,91
+Nova Gorica;2023-02-22;Vino;10;10,88
+Nova Gorica;2023-02-23;Vino;13;18,2
+Nova Gorica;2023-02-24;Vino;20;18,93
+Nova Gorica;2023-02-25;Vino;8;11,06
+Nova Gorica;2023-02-26;Vino;7;19,78
+Nova Gorica;2023-02-27;Vino;29;10,33
+Nova Gorica;2023-02-28;Vino;18;18,41
+Nova Gorica;2023-03-01;Vino;13;16,48
+Nova Gorica;2023-03-02;Vino;5;11,95
+Nova Gorica;2023-03-03;Vino;4;14,7
+Nova Gorica;2023-03-04;Vino;10;14,03
+Nova Gorica;2023-03-05;Vino;9;9,15
+Nova Gorica;2023-03-06;Vino;15;17,86
+Nova Gorica;2023-03-07;Vino;20;9,75
+Nova Gorica;2023-03-08;Vino;29;6,04
+Nova Gorica;2023-03-09;Vino;16;5,12
+Nova Gorica;2023-03-10;Vino;28;11,09
+Nova Gorica;2023-03-11;Vino;16;14,45
+Nova Gorica;2023-03-12;Vino;10;6,0
+Nova Gorica;2023-03-13;Vino;21;15,88
+Nova Gorica;2023-03-14;Vino;21;8,39
+Nova Gorica;2023-03-15;Vino;11;15,59
+Nova Gorica;2023-03-16;Vino;20;16,77
+Nova Gorica;2023-03-17;Vino;18;15,78
+Nova Gorica;2023-03-18;Vino;8;16,95
+Nova Gorica;2023-03-19;Vino;3;19,71
+Nova Gorica;2023-03-20;Vino;20;7,21
+Nova Gorica;2023-03-21;Vino;15;7,92
+Nova Gorica;2023-03-22;Vino;9;17,55
+Nova Gorica;2023-03-23;Vino;27;17,92
+Nova Gorica;2023-03-24;Vino;20;10,48
+Nova Gorica;2023-03-25;Vino;20;19,31
+Nova Gorica;2023-03-26;Vino;25;19,17
+Nova Gorica;2023-03-27;Vino;9;15,27
+Nova Gorica;2023-03-28;Vino;11;8,39
+Nova Gorica;2023-03-29;Vino;22;17,81
+Nova Gorica;2023-03-30;Vino;27;19,1
+Nova Gorica;2023-03-31;Vino;4;8,42
+Nova Gorica;2023-01-01;Sir;12;14,92
+Nova Gorica;2023-01-02;Sir;6;16,12
+Nova Gorica;2023-01-03;Sir;22;18,03
+Nova Gorica;2023-01-04;Sir;17;7,61
+Nova Gorica;2023-01-05;Sir;24;19,3
+Nova Gorica;2023-01-06;Sir;17;8,63
+Nova Gorica;2023-01-07;Sir;3;7,99
+Nova Gorica;2023-01-08;Sir;10;11,37
+Nova Gorica;2023-01-09;Sir;26;7,92
+Nova Gorica;2023-01-10;Sir;6;9,96
+Nova Gorica;2023-01-11;Sir;13;13,88
+Nova Gorica;2023-01-12;Sir;3;10,64
+Nova Gorica;2023-01-13;Sir;11;16,95
+Nova Gorica;2023-01-14;Sir;14;8,96
+Nova Gorica;2023-01-15;Sir;6;13,93
+Nova Gorica;2023-01-16;Sir;9;19,33
+Nova Gorica;2023-01-17;Sir;22;15,59
+Nova Gorica;2023-01-18;Sir;5;17,39
+Nova Gorica;2023-01-19;Sir;9;7,54
+Nova Gorica;2023-01-20;Sir;6;17,99
+Nova Gorica;2023-01-21;Sir;25;8,58
+Nova Gorica;2023-01-22;Sir;25;11,22
+Nova Gorica;2023-01-23;Sir;14;19,33
+Nova Gorica;2023-01-24;Sir;11;11,32
+Nova Gorica;2023-01-25;Sir;6;19,29
+Nova Gorica;2023-01-26;Sir;28;9,27
+Nova Gorica;2023-01-27;Sir;21;18,87
+Nova Gorica;2023-01-28;Sir;11;13,49
+Nova Gorica;2023-01-29;Sir;12;16,47
+Nova Gorica;2023-01-30;Sir;5;18,36
+Nova Gorica;2023-01-31;Sir;28;13,36
+Nova Gorica;2023-02-01;Sir;7;13,93
+Nova Gorica;2023-02-02;Sir;28;8,91
+Nova Gorica;2023-02-03;Sir;3;19,03
+Nova Gorica;2023-02-04;Sir;20;17,11
+Nova Gorica;2023-02-05;Sir;20;5,31
+Nova Gorica;2023-02-06;Sir;25;15,9
+Nova Gorica;2023-02-07;Sir;25;14,49
+Nova Gorica;2023-02-08;Sir;7;10,65
+Nova Gorica;2023-02-09;Sir;20;11,05
+Nova Gorica;2023-02-10;Sir;14;12,74
+Nova Gorica;2023-02-11;Sir;13;10,15
+Nova Gorica;2023-02-12;Sir;12;12,87
+Nova Gorica;2023-02-13;Sir;13;6,83
+Nova Gorica;2023-02-14;Sir;10;7,18
+Nova Gorica;2023-02-15;Sir;18;10,24
+Nova Gorica;2023-02-16;Sir;10;6,04
+Nova Gorica;2023-02-17;Sir;10;13,68
+Nova Gorica;2023-02-18;Sir;8;16,62
+Nova Gorica;2023-02-19;Sir;20;14,69
+Nova Gorica;2023-02-20;Sir;18;17,04
+Nova Gorica;2023-02-21;Sir;5;18,97
+Nova Gorica;2023-02-22;Sir;24;11,39
+Nova Gorica;2023-02-23;Sir;21;5,75
+Nova Gorica;2023-02-24;Sir;10;13,3
+Nova Gorica;2023-02-25;Sir;6;7,91
+Nova Gorica;2023-02-26;Sir;26;14,63
+Nova Gorica;2023-02-27;Sir;23;11,03
+Nova Gorica;2023-02-28;Sir;23;9,48
+Nova Gorica;2023-03-01;Sir;11;12,04
+Nova Gorica;2023-03-02;Sir;20;8,72
+Nova Gorica;2023-03-03;Sir;29;10,44
+Nova Gorica;2023-03-04;Sir;9;15,0
+Nova Gorica;2023-03-05;Sir;7;19,99
+Nova Gorica;2023-03-06;Sir;12;16,92
+Nova Gorica;2023-03-07;Sir;18;18,6
+Nova Gorica;2023-03-08;Sir;24;13,76
+Nova Gorica;2023-03-09;Sir;10;16,95
+Nova Gorica;2023-03-10;Sir;4;16,19
+Nova Gorica;2023-03-11;Sir;28;19,87
+Nova Gorica;2023-03-12;Sir;9;12,21
+Nova Gorica;2023-03-13;Sir;12;19,95
+Nova Gorica;2023-03-14;Sir;8;15,98
+Nova Gorica;2023-03-15;Sir;23;11,27
+Nova Gorica;2023-03-16;Sir;13;16,69
+Nova Gorica;2023-03-17;Sir;23;13,84
+Nova Gorica;2023-03-18;Sir;6;11,13
+Nova Gorica;2023-03-19;Sir;28;13,17
+Nova Gorica;2023-03-20;Sir;10;15,3
+Nova Gorica;2023-03-21;Sir;12;6,19
+Nova Gorica;2023-03-22;Sir;16;6,78
+Nova Gorica;2023-03-23;Sir;24;17,42
+Nova Gorica;2023-03-24;Sir;24;18,93
+Nova Gorica;2023-03-25;Sir;3;17,5
+Nova Gorica;2023-03-26;Sir;28;12,94
+Nova Gorica;2023-03-27;Sir;9;5,37
+Nova Gorica;2023-03-28;Sir;17;13,67
+Nova Gorica;2023-03-29;Sir;9;19,41
+Nova Gorica;2023-03-30;Sir;3;16,09
+Nova Gorica;2023-03-31;Sir;20;19,92
+Nova Gorica;2023-01-01;Sadje;7;15,57
+Nova Gorica;2023-01-02;Sadje;9;8,95
+Nova Gorica;2023-01-03;Sadje;11;15,42
+Nova Gorica;2023-01-04;Sadje;10;13,58
+Nova Gorica;2023-01-05;Sadje;14;11,98
+Nova Gorica;2023-01-06;Sadje;21;13,42
+Nova Gorica;2023-01-07;Sadje;3;9,78
+Nova Gorica;2023-01-08;Sadje;12;12,61
+Nova Gorica;2023-01-09;Sadje;19;7,89
+Nova Gorica;2023-01-10;Sadje;6;15,63
+Nova Gorica;2023-01-11;Sadje;22;10,2
+Nova Gorica;2023-01-12;Sadje;6;10,2
+Nova Gorica;2023-01-13;Sadje;17;16,15
+Nova Gorica;2023-01-14;Sadje;6;8,15
+Nova Gorica;2023-01-15;Sadje;16;14,17
+Nova Gorica;2023-01-16;Sadje;22;15,74
+Nova Gorica;2023-01-17;Sadje;23;6,44
+Nova Gorica;2023-01-18;Sadje;15;14,73
+Nova Gorica;2023-01-19;Sadje;12;17,47
+Nova Gorica;2023-01-20;Sadje;20;11,96
+Nova Gorica;2023-01-21;Sadje;4;10,72
+Nova Gorica;2023-01-22;Sadje;14;15,74
+Nova Gorica;2023-01-23;Sadje;6;6,04
+Nova Gorica;2023-01-24;Sadje;29;17,33
+Nova Gorica;2023-01-25;Sadje;19;18,95
+Nova Gorica;2023-01-26;Sadje;24;5,81
+Nova Gorica;2023-01-27;Sadje;6;11,01
+Nova Gorica;2023-01-28;Sadje;25;12,13
+Nova Gorica;2023-01-29;Sadje;19;9,01
+Nova Gorica;2023-01-30;Sadje;29;16,38
+Nova Gorica;2023-01-31;Sadje;18;17,84
+Nova Gorica;2023-02-01;Sadje;24;18,32
+Nova Gorica;2023-02-02;Sadje;16;5,73
+Nova Gorica;2023-02-03;Sadje;18;18,78
+Nova Gorica;2023-02-04;Sadje;21;12,57
+Nova Gorica;2023-02-05;Sadje;25;7,15
+Nova Gorica;2023-02-06;Sadje;27;17,71
+Nova Gorica;2023-02-07;Sadje;11;19,06
+Nova Gorica;2023-02-08;Sadje;21;12,89
+Nova Gorica;2023-02-09;Sadje;17;10,7
+Nova Gorica;2023-02-10;Sadje;25;6,33
+Nova Gorica;2023-02-11;Sadje;26;9,9
+Nova Gorica;2023-02-12;Sadje;11;15,66
+Nova Gorica;2023-02-13;Sadje;6;15,1
+Nova Gorica;2023-02-14;Sadje;9;19,87
+Nova Gorica;2023-02-15;Sadje;22;8,02
+Nova Gorica;2023-02-16;Sadje;17;17,99
+Nova Gorica;2023-02-17;Sadje;20;15,4
+Nova Gorica;2023-02-18;Sadje;11;14,34
+Nova Gorica;2023-02-19;Sadje;14;16,27
+Nova Gorica;2023-02-20;Sadje;14;19,94
+Nova Gorica;2023-02-21;Sadje;20;18,33
+Nova Gorica;2023-02-22;Sadje;27;9,21
+Nova Gorica;2023-02-23;Sadje;23;17,94
+Nova Gorica;2023-02-24;Sadje;13;10,8
+Nova Gorica;2023-02-25;Sadje;26;17,91
+Nova Gorica;2023-02-26;Sadje;5;19,4
+Nova Gorica;2023-02-27;Sadje;20;9,77
+Nova Gorica;2023-02-28;Sadje;10;18,61
+Nova Gorica;2023-03-01;Sadje;13;8,51
+Nova Gorica;2023-03-02;Sadje;19;10,94
+Nova Gorica;2023-03-03;Sadje;26;8,32
+Nova Gorica;2023-03-04;Sadje;22;11,39
+Nova Gorica;2023-03-05;Sadje;28;11,84
+Nova Gorica;2023-03-06;Sadje;20;10,59
+Nova Gorica;2023-03-07;Sadje;17;16,5
+Nova Gorica;2023-03-08;Sadje;9;11,12
+Nova Gorica;2023-03-09;Sadje;12;16,16
+Nova Gorica;2023-03-10;Sadje;24;11,94
+Nova Gorica;2023-03-11;Sadje;18;14,51
+Nova Gorica;2023-03-12;Sadje;17;14,48
+Nova Gorica;2023-03-13;Sadje;13;6,81
+Nova Gorica;2023-03-14;Sadje;6;19,27
+Nova Gorica;2023-03-15;Sadje;17;8,92
+Nova Gorica;2023-03-16;Sadje;19;15,13
+Nova Gorica;2023-03-17;Sadje;26;10,07
+Nova Gorica;2023-03-18;Sadje;3;7,02
+Nova Gorica;2023-03-19;Sadje;28;13,55
+Nova Gorica;2023-03-20;Sadje;6;17,36
+Nova Gorica;2023-03-21;Sadje;29;18,24
+Nova Gorica;2023-03-22;Sadje;17;19,75
+Nova Gorica;2023-03-23;Sadje;6;13,83
+Nova Gorica;2023-03-24;Sadje;12;8,88
+Nova Gorica;2023-03-25;Sadje;15;8,69
+Nova Gorica;2023-03-26;Sadje;14;19,6
+Nova Gorica;2023-03-27;Sadje;7;13,38
+Nova Gorica;2023-03-28;Sadje;18;14,82
+Nova Gorica;2023-03-29;Sadje;15;5,56
+Nova Gorica;2023-03-30;Sadje;9;5,59
+Nova Gorica;2023-03-31;Sadje;29;7,36
+Škofja Loka;2023-01-01;Vino;10;9,43
+Škofja Loka;2023-01-02;Vino;17;19,7
+Škofja Loka;2023-01-03;Vino;23;18,23
+Škofja Loka;2023-01-04;Vino;4;17,23
+Škofja Loka;2023-01-05;Vino;4;13,31
+Škofja Loka;2023-01-06;Vino;3;6,18
+Škofja Loka;2023-01-07;Vino;11;6,18
+Škofja Loka;2023-01-08;Vino;18;6,64
+Škofja Loka;2023-01-09;Vino;8;5,1
+Škofja Loka;2023-01-10;Vino;4;16,15
+Škofja Loka;2023-01-11;Vino;21;17,15
+Škofja Loka;2023-01-12;Vino;21;12,64
+Škofja Loka;2023-01-13;Vino;19;18,75
+Škofja Loka;2023-01-14;Vino;9;9,6
+Škofja Loka;2023-01-15;Vino;14;7,05
+Škofja Loka;2023-01-16;Vino;29;6,41
+Škofja Loka;2023-01-17;Vino;14;16,36
+Škofja Loka;2023-01-18;Vino;6;6,27
+Škofja Loka;2023-01-19;Vino;20;8,04
+Škofja Loka;2023-01-20;Vino;12;13,41
+Škofja Loka;2023-01-21;Vino;9;17,12
+Škofja Loka;2023-01-22;Vino;14;14,91
+Škofja Loka;2023-01-23;Vino;23;6,45
+Škofja Loka;2023-01-24;Vino;10;11,61
+Škofja Loka;2023-01-25;Vino;15;6,97
+Škofja Loka;2023-01-26;Vino;4;15,06
+Škofja Loka;2023-01-27;Vino;25;10,29
+Škofja Loka;2023-01-28;Vino;17;13,89
+Škofja Loka;2023-01-29;Vino;21;18,6
+Škofja Loka;2023-01-30;Vino;16;15,35
+Škofja Loka;2023-01-31;Vino;4;15,3
+Škofja Loka;2023-02-01;Vino;18;14,45
+Škofja Loka;2023-02-02;Vino;14;10,31
+Škofja Loka;2023-02-03;Vino;21;16,2
+Škofja Loka;2023-02-04;Vino;15;17,46
+Škofja Loka;2023-02-05;Vino;29;5,1
+Škofja Loka;2023-02-06;Vino;3;6,85
+Škofja Loka;2023-02-07;Vino;28;13,77
+Škofja Loka;2023-02-08;Vino;10;18,1
+Škofja Loka;2023-02-09;Vino;9;13,27
+Škofja Loka;2023-02-10;Vino;7;7,01
+Škofja Loka;2023-02-11;Vino;25;16,72
+Škofja Loka;2023-02-12;Vino;26;18,21
+Škofja Loka;2023-02-13;Vino;29;7,53
+Škofja Loka;2023-02-14;Vino;26;9,35
+Škofja Loka;2023-02-15;Vino;23;18,31
+Škofja Loka;2023-02-16;Vino;24;19,96
+Škofja Loka;2023-02-17;Vino;8;13,05
+Škofja Loka;2023-02-18;Vino;27;11,53
+Škofja Loka;2023-02-19;Vino;13;15,53
+Škofja Loka;2023-02-20;Vino;6;16,35
+Škofja Loka;2023-02-21;Vino;24;8,39
+Škofja Loka;2023-02-22;Vino;20;19,75
+Škofja Loka;2023-02-23;Vino;7;8,1
+Škofja Loka;2023-02-24;Vino;29;19,01
+Škofja Loka;2023-02-25;Vino;14;10,78
+Škofja Loka;2023-02-26;Vino;3;16,34
+Škofja Loka;2023-02-27;Vino;24;7,21
+Škofja Loka;2023-02-28;Vino;28;13,81
+Škofja Loka;2023-03-01;Vino;9;18,74
+Škofja Loka;2023-03-02;Vino;11;17,1
+Škofja Loka;2023-03-03;Vino;27;9,85
+Škofja Loka;2023-03-04;Vino;25;11,99
+Škofja Loka;2023-03-05;Vino;10;15,54
+Škofja Loka;2023-03-06;Vino;18;7,33
+Škofja Loka;2023-03-07;Vino;5;10,27
+Škofja Loka;2023-03-08;Vino;10;16,38
+Škofja Loka;2023-03-09;Vino;16;8,33
+Škofja Loka;2023-03-10;Vino;25;7,52
+Škofja Loka;2023-03-11;Vino;15;15,42
+Škofja Loka;2023-03-12;Vino;28;17,62
+Škofja Loka;2023-03-13;Vino;19;19,82
+Škofja Loka;2023-03-14;Vino;7;16,9
+Škofja Loka;2023-03-15;Vino;9;12,29
+Škofja Loka;2023-03-16;Vino;6;14,89
+Škofja Loka;2023-03-17;Vino;7;10,9
+Škofja Loka;2023-03-18;Vino;14;13,81
+Škofja Loka;2023-03-19;Vino;14;6,94
+Škofja Loka;2023-03-20;Vino;11;12,44
+Škofja Loka;2023-03-21;Vino;11;14,41
+Škofja Loka;2023-03-22;Vino;25;5,72
+Škofja Loka;2023-03-23;Vino;22;5,81
+Škofja Loka;2023-03-24;Vino;7;11,26
+Škofja Loka;2023-03-25;Vino;29;10,05
+Škofja Loka;2023-03-26;Vino;7;16,3
+Škofja Loka;2023-03-27;Vino;26;12,91
+Škofja Loka;2023-03-28;Vino;22;8,31
+Škofja Loka;2023-03-29;Vino;27;9,73
+Škofja Loka;2023-03-30;Vino;23;18,13
+Škofja Loka;2023-03-31;Vino;21;12,06
+Škofja Loka;2023-01-01;Sir;8;11,56
+Škofja Loka;2023-01-02;Sir;10;8,97
+Škofja Loka;2023-01-03;Sir;24;12,55
+Škofja Loka;2023-01-04;Sir;29;6,45
+Škofja Loka;2023-01-05;Sir;22;6,23
+Škofja Loka;2023-01-06;Sir;10;6,95
+Škofja Loka;2023-01-07;Sir;13;16,68
+Škofja Loka;2023-01-08;Sir;26;12,41
+Škofja Loka;2023-01-09;Sir;17;14,72
+Škofja Loka;2023-01-10;Sir;16;11,98
+Škofja Loka;2023-01-11;Sir;28;6,25
+Škofja Loka;2023-01-12;Sir;28;10,57
+Škofja Loka;2023-01-13;Sir;25;10,58
+Škofja Loka;2023-01-14;Sir;27;16,15
+Škofja Loka;2023-01-15;Sir;29;6,59
+Škofja Loka;2023-01-16;Sir;8;9,91
+Škofja Loka;2023-01-17;Sir;12;16,96
+Škofja Loka;2023-01-18;Sir;24;15,24
+Škofja Loka;2023-01-19;Sir;5;11,96
+Škofja Loka;2023-01-20;Sir;29;5,29
+Škofja Loka;2023-01-21;Sir;17;12,22
+Škofja Loka;2023-01-22;Sir;28;11,81
+Škofja Loka;2023-01-23;Sir;25;9,99
+Škofja Loka;2023-01-24;Sir;19;9,93
+Škofja Loka;2023-01-25;Sir;17;7,65
+Škofja Loka;2023-01-26;Sir;3;17,32
+Škofja Loka;2023-01-27;Sir;15;14,9
+Škofja Loka;2023-01-28;Sir;15;19,23
+Škofja Loka;2023-01-29;Sir;26;18,45
+Škofja Loka;2023-01-30;Sir;10;5,48
+Škofja Loka;2023-01-31;Sir;25;16,51
+Škofja Loka;2023-02-01;Sir;10;14,55
+Škofja Loka;2023-02-02;Sir;14;15,38
+Škofja Loka;2023-02-03;Sir;22;11,43
+Škofja Loka;2023-02-04;Sir;17;10,32
+Škofja Loka;2023-02-05;Sir;14;16,68
+Škofja Loka;2023-02-06;Sir;21;12,49
+Škofja Loka;2023-02-07;Sir;18;15,27
+Škofja Loka;2023-02-08;Sir;29;13,15
+Škofja Loka;2023-02-09;Sir;27;15,9
+Škofja Loka;2023-02-10;Sir;18;6,28
+Škofja Loka;2023-02-11;Sir;25;7,14
+Škofja Loka;2023-02-12;Sir;10;19,5
+Škofja Loka;2023-02-13;Sir;19;10,55
+Škofja Loka;2023-02-14;Sir;9;10,68
+Škofja Loka;2023-02-15;Sir;9;10,74
+Škofja Loka;2023-02-16;Sir;29;6,8
+Škofja Loka;2023-02-17;Sir;25;7,84
+Škofja Loka;2023-02-18;Sir;29;6,87
+Škofja Loka;2023-02-19;Sir;4;14,48
+Škofja Loka;2023-02-20;Sir;3;16,94
+Škofja Loka;2023-02-21;Sir;5;11,47
+Škofja Loka;2023-02-22;Sir;19;18,62
+Škofja Loka;2023-02-23;Sir;12;15,16
+Škofja Loka;2023-02-24;Sir;20;8,63
+Škofja Loka;2023-02-25;Sir;12;11,56
+Škofja Loka;2023-02-26;Sir;16;14,87
+Škofja Loka;2023-02-27;Sir;11;17,23
+Škofja Loka;2023-02-28;Sir;15;17,09
+Škofja Loka;2023-03-01;Sir;26;6,12
+Škofja Loka;2023-03-02;Sir;23;10,01
+Škofja Loka;2023-03-03;Sir;15;15,19
+Škofja Loka;2023-03-04;Sir;14;15,13
+Škofja Loka;2023-03-05;Sir;21;5,78
+Škofja Loka;2023-03-06;Sir;15;16,34
+Škofja Loka;2023-03-07;Sir;23;7,3
+Škofja Loka;2023-03-08;Sir;22;18,38
+Škofja Loka;2023-03-09;Sir;19;9,86
+Škofja Loka;2023-03-10;Sir;5;5,83
+Škofja Loka;2023-03-11;Sir;24;19,16
+Škofja Loka;2023-03-12;Sir;18;19,29
+Škofja Loka;2023-03-13;Sir;8;7,92
+Škofja Loka;2023-03-14;Sir;24;13,97
+Škofja Loka;2023-03-15;Sir;16;7,42
+Škofja Loka;2023-03-16;Sir;6;16,86
+Škofja Loka;2023-03-17;Sir;15;12,0
+Škofja Loka;2023-03-18;Sir;25;10,68
+Škofja Loka;2023-03-19;Sir;22;7,36
+Škofja Loka;2023-03-20;Sir;9;15,78
+Škofja Loka;2023-03-21;Sir;28;19,53
+Škofja Loka;2023-03-22;Sir;21;19,53
+Škofja Loka;2023-03-23;Sir;16;17,83
+Škofja Loka;2023-03-24;Sir;22;14,59
+Škofja Loka;2023-03-25;Sir;5;14,38
+Škofja Loka;2023-03-26;Sir;9;15,19
+Škofja Loka;2023-03-27;Sir;8;8,41
+Škofja Loka;2023-03-28;Sir;18;8,45
+Škofja Loka;2023-03-29;Sir;19;12,04
+Škofja Loka;2023-03-30;Sir;17;11,37
+Škofja Loka;2023-03-31;Sir;13;14,16
+Škofja Loka;2023-01-01;Sadje;8;9,84
+Škofja Loka;2023-01-02;Sadje;12;16,57
+Škofja Loka;2023-01-03;Sadje;7;6,28
+Škofja Loka;2023-01-04;Sadje;12;16,62
+Škofja Loka;2023-01-05;Sadje;19;18,52
+Škofja Loka;2023-01-06;Sadje;21;9,97
+Škofja Loka;2023-01-07;Sadje;8;9,9
+Škofja Loka;2023-01-08;Sadje;14;17,33
+Škofja Loka;2023-01-09;Sadje;23;16,6
+Škofja Loka;2023-01-10;Sadje;4;17,45
+Škofja Loka;2023-01-11;Sadje;28;19,81
+Škofja Loka;2023-01-12;Sadje;26;17,32
+Škofja Loka;2023-01-13;Sadje;22;5,56
+Škofja Loka;2023-01-14;Sadje;7;18,16
+Škofja Loka;2023-01-15;Sadje;10;5,18
+Škofja Loka;2023-01-16;Sadje;17;11,41
+Škofja Loka;2023-01-17;Sadje;13;5,9
+Škofja Loka;2023-01-18;Sadje;4;18,18
+Škofja Loka;2023-01-19;Sadje;26;7,03
+Škofja Loka;2023-01-20;Sadje;20;7,99
+Škofja Loka;2023-01-21;Sadje;23;6,41
+Škofja Loka;2023-01-22;Sadje;10;11,04
+Škofja Loka;2023-01-23;Sadje;24;10,17
+Škofja Loka;2023-01-24;Sadje;13;9,47
+Škofja Loka;2023-01-25;Sadje;12;18,16
+Škofja Loka;2023-01-26;Sadje;22;6,62
+Škofja Loka;2023-01-27;Sadje;22;19,43
+Škofja Loka;2023-01-28;Sadje;3;11,39
+Škofja Loka;2023-01-29;Sadje;7;5,3
+Škofja Loka;2023-01-30;Sadje;6;19,94
+Škofja Loka;2023-01-31;Sadje;13;8,63
+Škofja Loka;2023-02-01;Sadje;10;13,72
+Škofja Loka;2023-02-02;Sadje;24;12,66
+Škofja Loka;2023-02-03;Sadje;19;5,63
+Škofja Loka;2023-02-04;Sadje;7;15,73
+Škofja Loka;2023-02-05;Sadje;9;7,87
+Škofja Loka;2023-02-06;Sadje;6;5,97
+Škofja Loka;2023-02-07;Sadje;22;14,01
+Škofja Loka;2023-02-08;Sadje;15;8,44
+Škofja Loka;2023-02-09;Sadje;26;12,31
+Škofja Loka;2023-02-10;Sadje;8;8,13
+Škofja Loka;2023-02-11;Sadje;7;17,77
+Škofja Loka;2023-02-12;Sadje;3;19,41
+Škofja Loka;2023-02-13;Sadje;13;10,35
+Škofja Loka;2023-02-14;Sadje;19;17,78
+Škofja Loka;2023-02-15;Sadje;27;8,35
+Škofja Loka;2023-02-16;Sadje;11;10,26
+Škofja Loka;2023-02-17;Sadje;21;5,96
+Škofja Loka;2023-02-18;Sadje;6;15,32
+Škofja Loka;2023-02-19;Sadje;17;9,87
+Škofja Loka;2023-02-20;Sadje;27;14,47
+Škofja Loka;2023-02-21;Sadje;25;17,54
+Škofja Loka;2023-02-22;Sadje;4;19,15
+Škofja Loka;2023-02-23;Sadje;19;5,8
+Škofja Loka;2023-02-24;Sadje;3;17,5
+Škofja Loka;2023-02-25;Sadje;23;16,26
+Škofja Loka;2023-02-26;Sadje;9;11,29
+Škofja Loka;2023-02-27;Sadje;17;18,14
+Škofja Loka;2023-02-28;Sadje;22;16,09
+Škofja Loka;2023-03-01;Sadje;7;13,6
+Škofja Loka;2023-03-02;Sadje;26;17,71
+Škofja Loka;2023-03-03;Sadje;17;19,58
+Škofja Loka;2023-03-04;Sadje;27;7,85
+Škofja Loka;2023-03-05;Sadje;25;6,65
+Škofja Loka;2023-03-06;Sadje;8;9,28
+Škofja Loka;2023-03-07;Sadje;22;14,04
+Škofja Loka;2023-03-08;Sadje;15;18,75
+Škofja Loka;2023-03-09;Sadje;20;9,9
+Škofja Loka;2023-03-10;Sadje;21;15,85
+Škofja Loka;2023-03-11;Sadje;4;7,81
+Škofja Loka;2023-03-12;Sadje;27;16,47
+Škofja Loka;2023-03-13;Sadje;20;14,42
+Škofja Loka;2023-03-14;Sadje;11;15,71
+Škofja Loka;2023-03-15;Sadje;20;11,33
+Škofja Loka;2023-03-16;Sadje;7;9,81
+Škofja Loka;2023-03-17;Sadje;21;14,54
+Škofja Loka;2023-03-18;Sadje;25;9,59
+Škofja Loka;2023-03-19;Sadje;4;13,75
+Škofja Loka;2023-03-20;Sadje;19;11,18
+Škofja Loka;2023-03-21;Sadje;17;16,82
+Škofja Loka;2023-03-22;Sadje;7;11,03
+Škofja Loka;2023-03-23;Sadje;29;7,24
+Škofja Loka;2023-03-24;Sadje;15;5,45
+Škofja Loka;2023-03-25;Sadje;16;12,31
+Škofja Loka;2023-03-26;Sadje;13;5,92
+Škofja Loka;2023-03-27;Sadje;12;17,84
+Škofja Loka;2023-03-28;Sadje;9;13,38
+Škofja Loka;2023-03-29;Sadje;7;15,29
+Škofja Loka;2023-03-30;Sadje;4;7,19
+Škofja Loka;2023-03-31;Sadje;7;17,63

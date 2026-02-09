@@ -1,0 +1,44 @@
+/* * *  * * *  * * *  * * *  * * *
+Ta naloga je sestavljena iz dveh delov: HTML in CSS.
+Prvi del je v datoteki dokument.html.
+Pri točkovanju bomo upoštevali, ali (in do kakšne mere) je 
+izvorna koda dokumenta veljaven in urejen CSS.
+
+1. naloga 
+  Dodajte izbiralec (selektor) za element h2.
+  V njegov sklop deklaracij dodajte deklaracijo za zgornji zunanji rob,
+  ki naj bo širok 1em.
+2. naloga
+  Sklop deklaracij za celice v prvem stolpcu dopolnite tako,
+  da bo besedilo v prvem stolpcu tabele krepko.
+  
+ * * *  * * *  * * *  * * *  * * */
+
+ body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  max-width: 40em;
+  margin: auto;
+  text-align: justify;
+  color: #0c1445;
+}
+
+a { color: rgb(225, 127, 74) }
+
+h1 {
+  margin-top: 1em;
+  color: rgb(225, 127, 74);
+}
+
+table {
+  font-size: 0.8em;
+  margin: 1em 0;
+  border-spacing: 0px;
+  margin-bottom: 1em;
+}
+th { text-align: left; }
+th, td { padding: 0.2em 0.7em; }
+/* prvi stolpec */
+td:first-child {  }
+/* sode vrstice */
+tr:nth-child(even) { background-color: rgb(225, 127, 74, 0.15); }

@@ -1,0 +1,106 @@
+<!-- <!DOCTYPE html> -->
+<!-- * * *  * * *  * * *  * * *  * * *
+Ta naloga je sestavljena iz dveh delov: HTML in CSS.
+Drugi del je v datoteki oblikovanje.css.
+Pri točkovanju bomo upoštevali, ali (in do kakšne mere) je 
+izvorna koda dokumenta veljaven in urejen HTML5.
+
+  1. naloga
+     V dokumentu sta dve napaki. Smiselno ju popravite.
+     Pomagajte si z validatorjem, kot na vajah.
+  2. naloga
+     V prvem odstavku naj bo besedna zveza "Persian cat" povezava na 
+     stran na Wikipediji. Spletni naslov te strani je v komentarju pod odstavkom.    
+     V razdelku Traditional Persian vstavite sliko z atributom alt.
+     Ime datoteke in vsebino atributa poiščite v komentarju na mestu, 
+     kjer morate vstaviti sliko.
+  3. naloga
+     Oblikujte odstavke na koncu dokumenta v neoštevilčen seznam.
+     * * *  * * *  * * *  * * *  * * * -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Persian cats</title>
+    <link rel="stylesheet" href="oblikovanje.css">
+</head>
+
+<body>
+    <h1>Persian cats</h1>
+
+    <p>The content of this page has been slightly adapted from the Wikipedia page on <a href="https://en.wikipedia.org/wiki/Persian_cat">Persian cat.</a></p>
+    <!-- https://en.wikipedia.org/wiki/Persian_cat -->
+
+    <p><strong>The Persian cat</strong> is a long-haired breed of cat characterized by its round face and short muzzle.
+        It is also known as the "Persian Longhair" in English-speaking countries.</p>
+
+    <p>The first documented ancestors of Persian cats were imported into Italy from Persia around 1620. Recognized
+        by the cat fancy since the late 19th century, Persian cats were first adopted by the English, and then mainly by
+        American breeders after the Second World War.</p>
+
+    <p>The selective breeding carried out by breeders has allowed the development of a wide variety of coat colors, but
+        has also led to the creation of increasingly flat-faced Persians. Favored by fanciers, this head structure can
+        bring with it a number of health problems. As is the case with the Siamese breed, there have been efforts by
+        some breeders to preserve the older type of cat, the <em>traditional breed</em>, having a more pronounced
+        muzzle, which is more popular with the general public. Hereditary polycystic kidney disease is prevalent in the breed,
+        affecting almost half the population in some countries.</p>
+
+    <h2 id="traditional">Traditional Persian</h2>
+
+    <div class="persian">
+    <img src="persian.jpg" alt="Two beautiful Persians">
+        <!-- Tu vstavite sliko z atributom alt, ki naj ima vrednost "Two beautiful Persians" -->
+        <!-- persian.jpg -->
+        <p>Two traditional Persian cats</p>
+    </div>
+
+    <p>The <strong>traditional Persian</strong>, or <strong>doll-face Persian</strong>, are somewhat recent names for
+        what is essentially the original breed of Persian cat, without the development of extreme features.</p>
+
+    <p>As many breeders in the United States, Germany, Italy, and other parts of the world started to interpret the
+        Persian standard differently, they developed the flat-nosed "peke-face" or "ultra-type" over time, as the result
+        of two genetic mutations, without changing the name of the breed from "Persian". Some organizations, including
+        the Cat Fanciers' Association (CFA), consider the peke-face type as their modern standard for the Persian breed.
+        Thus the retronym Traditional Persian was created to refer to the original type, which is still bred, mirroring
+        the renaming of the original-style Siamese cat as the Traditional Siamese or Thai, to distinguish it from the
+        long-faced modern development which has taken over as simply "the Siamese".</p>
+
+    <p>Not all cat fancier groups recognize the Traditional Persian (at all, or as distinct), or give it that specific
+        name. TICA has a very general standard that does not specify a flattened face.</p>
+
+
+    <h2 id="health">Health</h2>
+
+    <p>Pet insurance data from Sweden puts the median lifespan of cats from the Persian group (Persians, Chinchilla,
+        Himalayan and Exotic) at just above 12.5 years, while most cats live until they are about 15 years old. 76% of this
+        group lived to 10 years or more and 52% lived to 12.5 years or more. Veterinary clinic data from England shows
+        an average lifespan of 12-17 years, with a median of 14.1.</p>
+
+    <p>The modern Persian faces many health problems:</p>
+
+    <!-- začetek neoštevilčenega seznama -->
+    <ul>
+        <li>It has a large rounded skull and shortened face and nose. This facial conformation
+        makes the breed prone to breathing difficulties, skin and eye problems, and birthing difficulties.</li>
+
+        <li>Anatomical abnormalities associated with brachycephalic breeds can cause shortness of breath.</li>
+         
+        <li>Malformed tear ducts cause epiphora, an overflow of tears onto the face, which is common but primarily cosmetic. </li>
+        
+       <li>Entropion, the inward folding of the eyelids, causes the eyelashes to rub against the cornea, and can lead to tearing,
+        pain, infection and cornea damage.</li>
+        
+       <li>Similarly, in upper eyelid trichiasis or nasal fold trichiasis, eyelashes/hair from
+        the eyelid and hair from the nose fold near the eye grow in a way which rubs against the cornea.</li>
+         
+        <li>Dystocia, an abnormal or difficult labor, is relatively common in Persians. Consequently, stillbirth rate is higher
+        than normal, ranging from 16.1% to 22.1%, and one 1973 study puts kitten mortality rate (including
+        stillborns) at 29.2%. A veterinary study in 2010 documented the serious health problems caused by the brachycephalic
+        head.</li>
+    </ul>
+    <!-- konec neoštevilčenega seznama -->
+
+</body>
+
+</html>
