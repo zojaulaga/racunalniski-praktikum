@@ -87,3 +87,92 @@
 \end{frame}
 
 \end{document}
+
+
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[slovene]{babel}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{amsmath, amsthm}
+
+% tema metropolis (1. naloga)
+\usetheme{metropolis}
+\beamertemplatenavigationsymbolsempty
+
+% AMS okolje definicija (2. naloga)
+\theoremstyle{definition}
+\newtheorem{definicija}{Definicija}
+
+\begin{document}
+
+% NASLOVNA STRAN (1. naloga)
+\title{Nekaj o kompleksni ravnini}
+\author{Beno Učakar}
+\institute{Fakulteta za matematiko in fiziko}
+\date{14.\ 2.\ 2024}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+% 3. naloga – izračun e^{i\theta}
+\begin{frame}
+Kompleksna števila lahko enostavno vstavimo v polinom, kaj pa druge funkcije?
+Za primer si poglejmo, kako izračunamo $e^{i\theta}$ s pomočjo Taylorjeve vrste.
+
+\begin{align*}
+e^{i\theta}
+  &= \sum_{n=0}^{\infty} \frac{(i\theta)^n}{n!} \\
+  &= 1 + i\theta - \frac{\theta^2}{2!}
+     - \frac{i\theta^3}{3!}
+     + \frac{\theta^4}{4!}
+     + \frac{i\theta^5}{5!} + \ldots \\
+  &= \left( 1 - \frac{\theta^2}{2!}
+     + \frac{\theta^4}{4!} - \ldots \right)
+     + i\left( \theta - \frac{\theta^3}{3!}
+     + \frac{\theta^5}{5!} - \ldots \right) \\
+  &= \cos \theta + i \sin \theta.
+\end{align*}
+
+\end{frame}
+
+% 2. + 4. naloga – definicija in postopno prikazovanje
+\begin{frame}
+
+\begin{definicija}
+Naj bo $f \in O(D)$ in $z_0 \in D$ fiksna točka funkcije $f$.
+Število $\lambda = f'(z_0)$ imenujemo \textbf{večkratnost}
+funkcije $f$ v točki $z_0$.
+\end{definicija}
+
+\pause
+
+\begin{exampleblock}{Glede na $\lambda$ karakteriziramo fiksne točke:}
+\begin{enumerate}[<+->]
+\item $|\lambda| = 0$ je \textbf{super privlačna} fiksna točka.
+\item $|\lambda| < 1$ je \textbf{privlačna} fiksna točka.
+\item $|\lambda| > 1$ je \textbf{odbojna} fiksna točka.
+\item $|\lambda| = 1$: 
+če je $\lambda^n \neq 1$ za vsak $n \in \mathbb{N}$,
+je fiksna točka \textbf{iracionalno nevtralna},
+sicer pa \textbf{racionalno nevtralna}.
+\end{enumerate}
+\end{exampleblock}
+
+\end{frame}
+
+% 5. naloga – slika
+\begin{frame}
+\frametitle{Primer Julijeve množice}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.25\textwidth]{julia_set.png}
+\end{figure}
+
+\end{frame}
+
+\end{document}
